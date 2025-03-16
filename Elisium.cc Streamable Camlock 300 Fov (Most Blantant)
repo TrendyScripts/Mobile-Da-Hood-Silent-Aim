@@ -33,7 +33,7 @@ getgenv().elisium = {
         Filled = false
     },
     Strafe = {
-        Enabled = true,
+        Enabled = false,
         StrafeSpeed = 10,
         StrafeRadius = 10,
         StrafeHeight = 3,
@@ -41,7 +41,7 @@ getgenv().elisium = {
         Spoof = true
     },
     Desync = {
-        Toggled = false,
+        Toggled = true,
         Speed = 0.1,
         Mode = "Walkable", -- // Default, Random, Walkable
         X = 5000,
