@@ -33,10 +33,10 @@ getgenv().elisium = {
         Filled = false
     },
     Strafe = {
-        Enabled = false,
+        Enabled = true,
         StrafeSpeed = 10,
         StrafeRadius = 10,
-        StrafeHeight = 3,
+        StrafeHeight = -3,
         Mode = "CSync", -- // Strafe, Random, CSync
         Spoof = true
     },
