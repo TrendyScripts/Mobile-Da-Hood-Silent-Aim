@@ -21,7 +21,7 @@ getgenv().elisium = {
         Mode = "Advanced" -- // Ping, Advanced, Distance
     },
     Cframe = {
-        enabled = true,
+        enabled = false,
         speed = 2
     },
     Fov = {
